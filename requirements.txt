@@ -4,4 +4,4 @@ opencv-python
 dlib
 imutils
 simpleaudio
-cmake
+
